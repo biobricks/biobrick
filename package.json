@@ -1,6 +1,6 @@
 {
   "name": "biobrick",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Work In Progress. A BioBricks Software CLI.",
   "main": "./lib/biohack.js",
   "bin": {

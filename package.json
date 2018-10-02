@@ -1,6 +1,6 @@
 {
   "name": "biobrick",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Work In Progress. A BioBricks Software CLI.",
   "main": "./lib/biohack.js",
   "bin": {
@@ -15,7 +15,7 @@
     "url": "git+https://github.com/biobricks/biobrick.git"
   },
   "author": "Matthew Stewart",
-  "license": "WTFPL",
+  "license": "AGPL-3.0",
   "bugs": {
     "url": "https://github.com/biobricks/biobrick/issues"
   },

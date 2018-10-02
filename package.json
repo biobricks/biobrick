@@ -1,0 +1,27 @@
+{
+  "name": "biobrick",
+  "version": "0.0.4",
+  "description": "Work In Progress. A BioBricks Software CLI.",
+  "main": "./lib/biohack.js",
+  "bin": {
+    "biobrick": "./bin/biobrick-cli.js"
+  },
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biobricks/biobrick.git"
+  },
+  "author": "Matthew Stewart",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/biobricks/biobrick/issues"
+  },
+  "homepage": "https://github.com/biobricks/biobrick#readme",
+  "dependencies": {
+    "colors": "^1.3.2",
+    "inquirer": "^6.2.0"
+  }
+}
